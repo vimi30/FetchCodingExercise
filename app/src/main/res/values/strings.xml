@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FetchCodingExercise</string>
+    <string name="home_screen_header">Home</string>
+    <string name="item_name_header">Item Name: </string>
+    <string name="item_id_header">Item Id: </string>
+    <string name="list_id_header">List Id: </string>
+    <string name="list_id_sticky_header">List Id %d</string>
+    <string name="error_icon_content_description">error icon</string>
+    <string name="expand_more_icon_content_description">Expand</string>
+    <string name="expand_less_icon_content_description">Collapse</string>
+</resources>
